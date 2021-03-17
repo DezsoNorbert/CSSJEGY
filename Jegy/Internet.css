@@ -5,18 +5,25 @@ body{
 }
 
 td{
-    width: 650px;
-    align: center;
-    background-color: #5C6B7B;
 }
 
 #igen{
     align:center;
-    background-color: white;
+    background-color:#5C6B7B;
+    width: 650px;
+    
 
 }
 
 #tabla{
     background-color: #CDDBEB ;
     height: 35px;
+}
+
+span{
+    font-size: smaller;
+}
+
+#gyere{
+   background-color: #5C6B7B;  
 }
