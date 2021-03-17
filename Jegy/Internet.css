@@ -4,20 +4,20 @@ body{
 
 }
 
-td{
+#elso{
+    background-color:#5C6B7B;
 }
 
 #igen{
     align:center;
-    background-color:#5C6B7B;
+    background-color: white;
     width: 650px;
-    
+
 
 }
 
 #tabla{
-    background-color: #CDDBEB ;
-    height: 35px;
+   
 }
 
 span{
@@ -26,4 +26,17 @@ span{
 
 #gyere{
    background-color: #5C6B7B;  
+}
+
+#cella{
+    background-color: #CDDBEB;
+    height: 35px;
+}
+
+#nevek{
+    text-align: center;
+}
+
+b{
+    font-size: large;
 }
